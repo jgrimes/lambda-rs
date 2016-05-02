@@ -1,4 +1,3 @@
-pub mod macros;
 pub mod lambda;
 
 #[cfg(test)]
