@@ -1,4 +1,5 @@
 pub mod lambda;
+pub mod parser;
 
 #[cfg(test)]
 mod tests {
